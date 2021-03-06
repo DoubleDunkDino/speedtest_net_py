@@ -15,3 +15,5 @@ I did not use the inbuilt csv output to the ookla speed test command as i wanted
 Why create this script:
 Suffered from dropping out interenet and needed to prove to my landlord and ISP the quality and consistancy of the internet, and it has been ages since i created anything. I like custom csv files...
 
+opperating system:
+Windows (tested on windows 10). With some minor changes to the script it should be able to work on other operating systems (changing back slashes to forward, etc), just need to also download the apropiate command line client from ookla.
